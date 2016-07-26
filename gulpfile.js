@@ -9,7 +9,7 @@ const remoteSrc = require('gulp-remote-src');
 const replace = require('gulp-replace');
 const uglify = require('gulp-uglify');
 
-const BENCHMARKJS_VERSION = '2.1.0';
+const BENCHMARKJS_VERSION = '2.1.1';
 const requestOptions = {
 	'gzip': true,
 	'strictSSL': true
